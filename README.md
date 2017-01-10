@@ -1,6 +1,6 @@
 **Markdown-Resume Read Me**
 
-This is a resume that has been created for Ada Developers Academy.
+The following is a resume that has been created for Ada Developers Academy.
 
 # **Nicole De Nicolo**
 
