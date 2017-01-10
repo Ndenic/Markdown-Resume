@@ -1,4 +1,4 @@
-# Markdown-Resume Read Me
+**Markdown-Resume Read Me**
 
 This is a resume that has been created for Ada Developers Academy.
 
@@ -21,7 +21,9 @@ B.A. Theater Arts- 2004
 **Regent's College**  
 London, England, UK  
 Intensive Film Program- 2003
+
 ---
+
 ### **Past Experience**
 **Adjunct Teacher, College of DuPage**  
 Glen Ellyn, IL— 2012 to Present  
@@ -41,8 +43,10 @@ Teacher’s aid for third grade and substitute for kindergarten through eighth g
 
 **Special Education Teacher, Barking and Dagenham**  
 Essex, United Kingdom— 2010 to 2012  
-Created curriculum and taught third through sixth grade in a cross curricular setting. 
+Created curriculum and taught third through sixth grade in a cross curricular setting.
+
 ---
+
 ### **Organizations and Skills**
 - National Science Teacher Association Member
 - Attended National Science Teacher Convention 2016
