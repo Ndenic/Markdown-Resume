@@ -9,23 +9,17 @@ This is a resume that has been created for Ada Developers Academy.
 ___
 
 #### **Education** 
-**University of St. Francis**
 
-Joliet, IL
-
+**University of St. Francis**  
+Joliet, IL  
 M.S. Special Education- 2010
 
 **Saint Mary-of-the-Woods College**  
-
-Saint Mary-of-the-Woods, IN 
-
+Saint Mary-of-the-Woods, IN  
 B.A. Theater Arts- 2004 
 
-
-**Regent's College** 
-
-London, England, UK
-
+**Regent's College**  
+London, England, UK  
 Intensive Film Program- 2003
 
 ### **Past Experience**
