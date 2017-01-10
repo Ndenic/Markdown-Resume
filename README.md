@@ -10,15 +10,22 @@ ___
 
 #### **Education** 
 **University of St. Francis**
+
 Joliet, IL
+
 M.S. Special Education- 2010
 
-**St. Mary-of-the-Woods College**
-St. Mary-of-the-Woods, IN
+**Saint Mary-of-the-Woods College**  
+
+Saint Mary-of-the-Woods, IN 
+
 B.A. Theater Arts- 2004 
 
+
 **Regent's College** 
+
 London, England, UK
+
 Intensive Film Program- 2003
 
 ### **Past Experience**
@@ -51,6 +58,4 @@ Created curriculum and taught third through sixth grade in a cross curricular se
 - Thrives in a fast paced dead line based environment 
 - Mentored new teachers in creation and implementation of new curriculum
 - Strong computer and technology skills
-
-
 
